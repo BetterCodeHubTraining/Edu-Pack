@@ -96,7 +96,8 @@ Ten Guidelines for future-proof code
 - Computer Science course 
 - Software Engineering course
 - Using GitHub Classroom
-- University, School of Applied Sciences or Polytechnique
+
+at <span class="primary">University, School of Applied Sciences or Polytechnique</span>
 
 +++
 
@@ -124,7 +125,7 @@ Ten Guidelines for future-proof code
 
 ###### [Fabio Petrillo](https://github.com/petrillo) | [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/5)
 ###### [Hakan Erdogmus](https://github.com/erdogmush) | [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/6)
-###### [Neil Ernst](https://github.com/neilernst) | ![Gamification in Action](assets/studentcomment.jpg)
+###### [Neil Ernst](https://github.com/neilernst) | ![Gamification in Action](assets/studentcomments.jpg)
 
 
 
