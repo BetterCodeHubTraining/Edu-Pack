@@ -120,7 +120,9 @@ Ten Guidelines for future-proof code
 +++
 ## Quotes
 
-###### [Fabio Petrillo](Chttps://github.com/petrillo) | [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/5)
+###### [Fabio Petrillo](https://github.com/petrillo) | [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/5)
+###### [Hakan Erdogmus](https://github.com/erdogmush) | [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/6)
+
 
 +++
 
