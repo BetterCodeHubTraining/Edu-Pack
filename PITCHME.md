@@ -100,9 +100,11 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
-[FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto
+[FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
+[GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
+[AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
 
-[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | Athens
+
 
 +++
 
