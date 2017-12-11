@@ -100,19 +100,19 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
-###### [POLYMTL](https://github.com/poly-log8371) | POLYTECHNIQUE MONTRÉAL | Canada
-###### [POLYLOG](https://github.com/poly-log8430) | POLYTECHNIQUE MONTRÉAL | Canada
-###### [SENG330](https://github.com/SENG330-17) | University of Victoria | Canada
-###### [AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
-###### [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
-###### [GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
-###### [UVA-SE](https://github.com/software-engineering-amsterdam) | University of Amsterdam | Netherlands
-###### [Minor Programming](https://github.com/minprog) | University of Amsterdam | Netherlands
-###### [TUD-SEM](https://github.com/software-engineering-methods) | Delft University | Netherlands
-###### [Zuyd](https://github.com/ZuydUniversity/) | Heerlen University | Netherlands
-###### [Hanze](https://github.com/HanzehogeschoolSICT) | Hanze Hogeschool | Netherlands 
-###### [CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon Silicon Valley | United States
-###### [CSU CS 314](https://github.com/csu2017sp314/) | Colorado State University | Unites States
+##### [POLYMTL](https://github.com/poly-log8371) | POLYTECHNIQUE MONTRÉAL | Canada
+##### [POLYLOG](https://github.com/poly-log8430) | POLYTECHNIQUE MONTRÉAL | Canada
+##### [SENG330](https://github.com/SENG330-17) | University of Victoria | Canada
+##### [AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
+##### [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
+##### [GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
+##### [UVA-SE](https://github.com/software-engineering-amsterdam) | University of Amsterdam | Netherlands
+##### [Minor Programming](https://github.com/minprog) | University of Amsterdam | Netherlands
+##### [TUD-SEM](https://github.com/software-engineering-methods) | Delft University | Netherlands
+##### [Zuyd](https://github.com/ZuydUniversity/) | Heerlen University | Netherlands
+##### [Hanze](https://github.com/HanzehogeschoolSICT) | Hanze Hogeschool | Netherlands 
+##### [CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon Silicon Valley | United States
+##### [CSU CS 314](https://github.com/csu2017sp314/) | Colorado State University | Unites States
 
 
 
