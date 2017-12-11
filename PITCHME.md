@@ -101,14 +101,21 @@ Ten Guidelines for future-proof code
 ## Participants
 
 ###### [CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon S.V. | U.S.A
-###### [CSU CS 314](https://github.com/csu2017sp314/) | Colorado State University | U.S.A.
+###### [CSU-CS-314](https://github.com/csu2017sp314/) | Colorado State University | U.S.A.
 ###### [POLYMTLOG](https://github.com/poly-log8371) | Polytechnique Montréal | Canada
 ###### [SENG330](https://github.com/SENG330-17) | University of Victoria | Canada
 ###### [AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
 ###### [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
 ###### [GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
 ###### [UVA-SE](https://github.com/software-engineering-amsterdam) | University of Amsterdam | Netherlands
+
++++
+
 ###### [TUD-SEM](https://github.com/software-engineering-methods) | Delft University | Netherlands
+###### [Hanze](https://github.com/hanzehogeschoolSICT) | Hanze Hogeschool | Netherlands
+###### [Zuyd](https://github.com/ZuydUniversity) | Zuyd University Heerlen | Netherlands
+###### [MinorProg](https://github.com/minprog) | University Amsterdam | Netherlands
+###### [MAKEITWORK](https://github.com/makeitwork) | Hogeschool van Amsterdam | Netherlands
 
 
 
