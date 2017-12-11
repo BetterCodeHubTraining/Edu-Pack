@@ -6,9 +6,9 @@
 
 ---
 
-## Code Quality Paradox
+## Teaching about Code Quality?
 
-<span class="primary">Teaching about Code Quality?</span> 
+<span class="primary">A hinder of a help?</span> 
 
 Generally students and developers alike think that paying attention to Code Quality hinders them. While writing maintainable and thus future-proof code is of paramount importance to society 
 (ref Marc Andreessen).
@@ -18,7 +18,7 @@ Generally students and developers alike think that paying attention to Code Qual
 
 ![Where to start](assets/legacy-code.png)
 
-Nobody wants an investment hindered by <span class="primary">unforeseen</span> technical conditions. 
+Nobody wants to be hindered by <span class="primary">unforeseen</span> technical conditions. 
 
 
 ---
