@@ -29,12 +29,13 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 } 
 -->  
 
-## The Startup Pack 
+## The Education Pack 
 
 <span class="primary">What's included</span>
 
-- 6 months of free access to Better Code Hub for your development team
-- Code coaching workshops at incubator
+- Free access to Better Code Hub Pro for your students via (Student Developer Pack)[https://education.github.com/pack]
+- Access to training repositories
+- Code Quality workshops
 - Free copies of [Building Maintainable Software]((https://shop.oreilly.com/product/0636920049159.do)
 - Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
 
