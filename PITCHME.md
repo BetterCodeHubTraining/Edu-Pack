@@ -8,7 +8,7 @@
 
 ## Teaching Code Quality?
 
-<span class="primary">A hinder of a help?</span> 
+<span class="primary">A hinder or a help?</span> 
 
 Generally students and developers alike think that paying attention to Code Quality hinders them. While writing maintainable and thus future-proof code is of paramount importance to society 
 (ref Marc Andreessen).
