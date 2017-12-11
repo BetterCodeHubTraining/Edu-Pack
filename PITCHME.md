@@ -106,7 +106,6 @@ Ten Guidelines for future-proof code
 ##### [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
 ##### [GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
 ##### [UVA-SE](https://github.com/software-engineering-amsterdam) | University of Amsterdam | Netherlands
-##### [Minor Programming](https://github.com/minprog) | University of Amsterdam | Netherlands
 ##### [TUD-SEM](https://github.com/software-engineering-methods) | Delft University | Netherlands
 ##### [Zuyd](https://github.com/ZuydUniversity/) | Heerlen University | Netherlands
 ##### [Hanze](https://github.com/HanzehogeschoolSICT) | Hanze Hogeschool | Netherlands 
