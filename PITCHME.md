@@ -6,7 +6,7 @@
 
 ---
 
-## Teaching about Code Quality?
+## Teaching Code Quality?
 
 <span class="primary">A hinder of a help?</span> 
 
