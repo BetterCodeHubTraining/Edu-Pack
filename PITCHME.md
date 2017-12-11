@@ -16,7 +16,7 @@ Generally students and developers alike think that paying attention to Code Qual
 
 +++
 
-![Where to start](assets/legacy-code.jpg)
+![Where to start](assets/legacy-code.png)
 
 Nobody wants an investment hindered by <span class="primary">unforeseen</span> technical conditions. 
 
