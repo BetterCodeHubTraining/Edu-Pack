@@ -97,7 +97,7 @@ Ten Guidelines for future-proof code
 - Software Engineering course
 - Using GitHub Classroom
 
-at <span class="primary">University, School of Applied Sciences or Polytechnique</span>
+at <span class="primary">University, Applied Sciences or Polytechnique</span>
 
 +++
 
