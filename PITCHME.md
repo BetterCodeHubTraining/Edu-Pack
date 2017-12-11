@@ -10,12 +10,13 @@
 
 <span class="primary">Teaching about Code Quality?</span> 
 
-Generally students and developers alike think that paying attention to Code Quality hinders them. While writing maintainable and thus future-proof code is of paramount importance to society (ref Marc Andreessen).
+Generally students and developers alike think that paying attention to Code Quality hinders them. While writing maintainable and thus future-proof code is of paramount importance to society 
+(ref Marc Andreessen).
 
 
 +++
 
-![unforeseen technical conditions](assets/car-wheels.jpg)
+![Where to start](assets/legacy-code.jpg)
 
 Nobody wants an investment hindered by <span class="primary">unforeseen</span> technical conditions. 
 
