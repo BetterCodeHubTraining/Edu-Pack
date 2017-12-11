@@ -89,12 +89,14 @@ Ten Guidelines for future-proof code
 
 ---
 
-## The BCH Education Back 
+## The BCH Education Pack 
 
 <span class="primary">How to qualify</span> 
 
-- Computer Science class at University
+- Computer Science course 
+- Software Engineering course
 - Using GitHub Classroom
+- University, School of Applied Sciences or Polytechnique
 
 +++
 
