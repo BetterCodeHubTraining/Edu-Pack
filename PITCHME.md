@@ -93,14 +93,14 @@ Ten Guidelines for future-proof code
 
 <span class="primary">How to qualify</span> 
 
-- Computer Sience class at University
+- Computer Science class at University
 - Using GitHub Classroom
 
 +++
 
 ## Participants
 
-[node.energy](https://node.energy) | Lars Rinn | Amsterdam
+[FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto
 
 [241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | Athens
 
