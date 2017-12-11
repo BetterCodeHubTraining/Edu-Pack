@@ -115,7 +115,7 @@ Ten Guidelines for future-proof code
 ###### [Hanze](https://github.com/hanzehogeschoolSICT) | Hanze Hogeschool | Netherlands
 ###### [Zuyd](https://github.com/ZuydUniversity) | Zuyd University Heerlen | Netherlands
 ###### [MinorProg](https://github.com/minprog) | University Amsterdam | Netherlands
-###### [MAKEITWORK](https://github.com/makeitwork) | Hogeschool van Amsterdam | Netherlands
+###### [MAKEITWORK](https://github.com/hva-makeitwork) | Hogeschool van Amsterdam | Netherlands
 
 
 
