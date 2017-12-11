@@ -100,7 +100,7 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
-###### [CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon Silicon Valley | U.S.A
+###### [CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon S.V. | U.S.A
 ###### [CSU CS 314](https://github.com/csu2017sp314/) | Colorado State University | U.S.A.
 ###### [POLYMTLOG](https://github.com/poly-log8371) | Polytechnique Montréal | Canada
 ###### [SENG330](https://github.com/SENG330-17) | University of Victoria | Canada
