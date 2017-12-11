@@ -33,9 +33,9 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 <span class="primary">What's included</span>
 
-- Free access to Better Code Hub (BCH) Pro for your students via [Student Developer Pack](https://education.github.com/pack)
+- Free access to Better Code Hub (BCH) Pro for your course with [Student Developer Pack](https://education.github.com/pack)
 - Access to training repositories
-- Code Quality workshops
+- Code Quality guest lecture (remote)
 - Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
 - Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
 
@@ -117,9 +117,11 @@ Ten Guidelines for future-proof code
 ###### [MinorProg](https://github.com/minprog) | University Amsterdam | Netherlands
 ###### [MAKEITWORK](https://github.com/hva-makeitwork) | Hogeschool van Amsterdam | Netherlands
 
-
++++
+## Quotes
 
 +++
+
 
 ## Other Community Offerings
 
