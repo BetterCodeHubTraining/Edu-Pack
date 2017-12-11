@@ -1,7 +1,7 @@
 ---?image=assets/bch-bg.png
 
 ### Introducing
-## Education Pack
+## Better Code Hub - Education Pack
 #### by Software Improvement Group SIG
 
 ---
@@ -29,11 +29,11 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 } 
 -->  
 
-## The Education Pack 
+## The BCH Education Pack 
 
 <span class="primary">What's included</span>
 
-- Free access to Better Code Hub Pro for your students via [Student Developer Pack](https://education.github.com/pack)
+- Free access to Better Code Hub (BCH) Pro for your students via [Student Developer Pack](https://education.github.com/pack)
 - Access to training repositories
 - Code Quality workshops
 - Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
@@ -89,28 +89,25 @@ Ten Guidelines for future-proof code
 
 ---
 
-## The Startup Pack 
+## The BCH Education Back 
 
 <span class="primary">How to qualify</span> 
 
-- Technology or internet startup
-- Less than 18 months old
-- Fewer than 10 employees
-- Less than $1.5M in funding
+- Computer Sience class at University
+- Using GitHub Classroom
 
 +++
 
 ## Participants
 
-[node.energy](https://node.energy) | Lars Rinn | Frankfurt
+[node.energy](https://node.energy) | Lars Rinn | Amsterdam
 
-[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | Amsterdam
+[241SoftwareSolutions](https://www.241softwaresolutions.com) | [Robert Iepsma](https://www.linkedin.com/in/robert-iepsma-8237116b) | Athens
 
 +++
 
 ## Other Community Offerings
 
-- [EduPack: Code Clinics](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067) 
 - [Open Source Spring Cleaning](https://opensourcespringcleaning.github.io/)
 - [Support for Hackathons](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
