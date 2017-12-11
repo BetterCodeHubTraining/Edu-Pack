@@ -33,7 +33,7 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 <span class="primary">What's included</span>
 
-- Free access to Better Code Hub Pro for your students via (Student Developer Pack)[https://education.github.com/pack]
+- Free access to Better Code Hub Pro for your students via [Student Developer Pack](https://education.github.com/pack)
 - Access to training repositories
 - Code Quality workshops
 - Free copies of [Building Maintainable Software]((https://shop.oreilly.com/product/0636920049159.do)
