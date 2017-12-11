@@ -100,9 +100,14 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
+[POLYMTL](https://github.com/poly-log8371) | POLYTECHNIQUE MONTRÉAL | Canada
+[AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
 [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
 [GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
-[AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
+[UVA-SE](https://github.com/software-engineering-amsterdam) | University of Amsterdam | Netherlands
+[Minor Programming](https://github.com/minprog) | University of Amsterdam | Netherlands
+[TUD-SEM](https://github.com/software-engineering-methods) | Delft University | Netherlands
+[CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon Silicon Valley | United States
 
 
 
