@@ -100,8 +100,7 @@ Ten Guidelines for future-proof code
 
 ## Participants
 
-##### [POLYMTL](https://github.com/poly-log8371) | POLYTECHNIQUE MONTRÉAL | Canada
-##### [POLYLOG](https://github.com/poly-log8430) | POLYTECHNIQUE MONTRÉAL | Canada
+##### [POLYMTLOG](https://github.com/poly-log8371) | Polytechnique Montréal | Canada
 ##### [SENG330](https://github.com/SENG330-17) | University of Victoria | Canada
 ##### [AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
 ##### [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
