@@ -2,16 +2,15 @@
 
 ### Introducing
 ## Better Code Hub - Education Pack
-#### by Software Improvement Group SIG
+#### by Software Improvement Group (SIG)
 
 ---
 
-## Teaching Code Quality?
+## Code Quality Education?
 
-<span class="primary">A hinder or a help?</span> 
+<span class="primary">A hindrance or help?</span> 
 
-Generally students and developers alike think that paying attention to Code Quality hinders them. While writing maintainable and thus future-proof code is of paramount importance to society 
-(ref Marc Andreessen).
+Generally speaking, both students and developers alike see code quality as something that gets in the way of their work. On the other hand, web pioneers like Marc Andreessen believe that writing maintainable, future-proof code is of paramount importance to society.
 
 
 +++
