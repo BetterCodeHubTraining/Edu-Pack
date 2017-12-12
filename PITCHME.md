@@ -1,7 +1,7 @@
 ---?image=assets/bch-bg.png
 
 ### Introducing
-## Better Code Hub - Education Pack
+## Better Code Hub Education Pack
 #### by Software Improvement Group (SIG)
 
 ---
