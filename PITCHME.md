@@ -28,11 +28,11 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 } 
 -->  
 
-## The BCH Education Pack 
+## The Better Code Hub Education Pack 
 
 <span class="primary">What's included</span>
 
-- Free access to Better Code Hub (BCH) Pro for your course with [Student Developer Pack](https://education.github.com/pack)
+- Free access to Better Code Hub Pro for your course with [Student Developer Pack](https://education.github.com/pack)
 - Access to [training repositories](https://github.com/bettercodehubtraining)
 - Code Quality guest lecture (remote)
 - Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
@@ -88,7 +88,7 @@ Ten Guidelines for future-proof code
 
 ---
 
-## The BCH Education Pack 
+## The Better Code Hub Education Pack 
 
 <span class="primary">How to qualify</span> 
 
