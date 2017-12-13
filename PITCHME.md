@@ -102,22 +102,22 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 
 ## Participants
 
-###### [CMUSV-fse](https://github.com/cmusv-fse) | Carnegie Mellon S.V. | U.S.A
-###### [CSU-CS-314](https://github.com/csu2017sp314/) | Colorado State University | U.S.A.
-###### [POLYMTLOG](https://github.com/poly-log8371) | Polytechnique Montréal | Canada
-###### [SENG330](https://github.com/SENG330-17) | University of Victoria | Canada
-###### [AUEB-DMST](https://github.com/dmst-sweng) | Athens University | Greece
-###### [FEUP](https://github.com/bch-feup-ooplab) | Universidade de Porto | Portugal
-###### [GIPHOUSE](https://github.com/giphouse) | Radboud Universiteit | Netherlands
-###### [UVA-SE](https://github.com/software-engineering-amsterdam) | University of Amsterdam | Netherlands
+###### [Carnegie Mellon Silicon Valley](https://github.com/cmusv-fse) | U.S.A
+###### [Colorado State University](https://github.com/csu2017sp314/)  | U.S.A.
+###### [Polytechnique Montréal](https://github.com/poly-log8371) | Canada
+###### [University of Victoria](https://github.com/SENG330-17) | Canada
+###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
+###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
+###### [Radboud Universiteit](https://github.com/giphouse) | Netherlands
+###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
 
 +++
 
-###### [TUD-SEM](https://github.com/software-engineering-methods) | Delft University | Netherlands
-###### [Hanze](https://github.com/hanzehogeschoolSICT) | Hanze Hogeschool | Netherlands
-###### [Zuyd](https://github.com/ZuydUniversity) | Zuyd University Heerlen | Netherlands
-###### [MinorProg](https://github.com/minprog) | University Amsterdam | Netherlands
-###### [MAKEITWORK](https://github.com/hva-makeitwork) | Hogeschool van Amsterdam | Netherlands
+###### [Delft University](https://github.com/software-engineering-methods) | Netherlands
+###### [Hanze Hogeschool](https://github.com/hanzehogeschoolSICT) | Netherlands
+###### [Zuyd University](https://github.com/ZuydUniversity) | Netherlands
+###### [University of Amsterdam MinorProg](https://github.com/minprog) | Netherlands
+###### [Hogeschool van Amsterdam MakeItWork](https://github.com/hva-makeitwork) | Netherlands
 
 +++
 ## Quotes
