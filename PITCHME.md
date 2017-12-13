@@ -116,8 +116,8 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Delft University](https://github.com/software-engineering-methods) | Netherlands
 ###### [Hanze Hogeschool](https://github.com/hanzehogeschoolSICT) | Netherlands
 ###### [Zuyd University](https://github.com/ZuydUniversity) | Netherlands
-###### [University of Amsterdam MinorProg](https://github.com/minprog) | Netherlands
-###### [Hogeschool van Amsterdam MakeItWork](https://github.com/hva-makeitwork) | Netherlands
+###### [University of Amsterdam MinProg](https://github.com/minprog) | Netherlands
+###### [Hogeschool van Amsterdam](https://github.com/hva-makeitwork) | Netherlands
 
 +++
 ## Quotes
