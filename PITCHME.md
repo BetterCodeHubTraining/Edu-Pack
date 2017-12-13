@@ -125,7 +125,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ######  [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/5) by [Fabio Petrillo](https://github.com/petrillo)
 ######  [Education community post](https://education.github.community/t/a-proposed-add-on-for-code-quality-in-software-engineering-courses-using-github/9067/6) by [Hakan Erdogmus](https://github.com/erdogmush)
 ###### [Gamification in Action](https://raw.githubusercontent.com/BetterCodeHubTraining/Edu-Pack/master/assets/studentcomment.jpg), [Scoreboard tweet](https://twitter.com/neilernst/status/940721095434313728) by [Neil Ernst](https://github.com/neilernst)
-###### [Using BCH (in Dutch)](https://www.bartbarnard.nl/blog/?p=811) by [Bart Barnard](https://github.com/) 
+###### [Using BCH (in Dutch)](https://www.bartbarnard.nl/blog/?p=811) by [Bart Barnard](https://github.com/bart314) 
 
 
 +++
