@@ -118,6 +118,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Zuyd University](https://github.com/ZuydUniversity) | Netherlands
 ###### [University of Amsterdam MinProg](https://github.com/minprog) | Netherlands
 ###### [Hogeschool van Amsterdam](https://github.com/hva-makeitwork) | Netherlands
+###### [Haagse Hogeschool](https://github.com/gameoftrades) | Netherlands
 
 +++
 ## Quotes
