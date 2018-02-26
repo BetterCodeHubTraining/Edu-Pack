@@ -34,7 +34,7 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 - Free access to Better Code Hub Pro for your course with [Student Developer Pack](https://education.github.com/pack)
 - Access to [training repositories](https://github.com/bettercodehubtraining)
-- Code Quality guest lecture (remote)
+- [Code Quality video training](https://player.oreilly.com/videos/9781491950791)
 - Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
 - Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
 
@@ -119,6 +119,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [University of Amsterdam MinProg](https://github.com/minprog) | Netherlands
 ###### [Hogeschool van Amsterdam](https://github.com/hva-makeitwork) | Netherlands
 ###### [Haagse Hogeschool](https://github.com/gameoftrades) | Netherlands
+###### [Lodz University of Technology](https://github.com/LodzUniversityOfTechnology) | Poland
 
 +++
 ## Quotes
