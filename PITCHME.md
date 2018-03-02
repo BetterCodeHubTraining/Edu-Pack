@@ -106,10 +106,10 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Colorado State University](https://github.com/csu2017sp314/)  | U.S.A.
 ###### [Polytechnique Montréal](https://github.com/poly-log8371) | Canada
 ###### [University of Victoria](https://github.com/SENG330-17) | Canada
+###### [University of Ottawa](https://github.com/AES-Outreach) | Canada
+###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
 ###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
 ###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
-###### [University of Otowa](https://github.com/AES-Outreach) | Canada
-###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
 
 +++
 
