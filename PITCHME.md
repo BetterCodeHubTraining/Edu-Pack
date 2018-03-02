@@ -108,7 +108,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [University of Victoria](https://github.com/SENG330-17) | Canada
 ###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
 ###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
-###### [Radboud Universiteit](https://github.com/giphouse) | Netherlands
+###### [University of Otowa](https://github.com/AES-Outreach) | Canada
 ###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
 
 +++
@@ -119,7 +119,9 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [University of Amsterdam MinProg](https://github.com/minprog) | Netherlands
 ###### [Hogeschool van Amsterdam](https://github.com/hva-makeitwork) | Netherlands
 ###### [Haagse Hogeschool](https://github.com/gameoftrades) | Netherlands
+###### [Radboud Universiteit](https://github.com/giphouse) | Netherlands
 ###### [Lodz University of Technology](https://github.com/LodzUniversityOfTechnology) | Poland
+
 
 +++
 ## Quotes
