@@ -124,7 +124,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
 ###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
 ###### [Lodz University of Technology](https://github.com/LodzUniversityOfTechnology) | Poland
-###### [University of Bonn, Computer Science](https://github.com/SmartDataAnalytics/) | Germany
+###### [University of Bonn](https://github.com/SmartDataAnalytics/) | Germany
 
 
 +++
