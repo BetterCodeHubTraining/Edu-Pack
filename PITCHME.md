@@ -107,12 +107,10 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Polytechnique Montréal](https://github.com/poly-log8371) | Canada
 ###### [University of Victoria](https://github.com/SENG330-17) | Canada
 ###### [University of Ottawa](https://github.com/AES-Outreach) | Canada
-###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
-###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
-###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
 
 +++
 
+###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
 ###### [Delft University](https://github.com/software-engineering-methods) | Netherlands
 ###### [Hanze Hogeschool](https://github.com/hanzehogeschoolSICT) | Netherlands
 ###### [Zuyd University](https://github.com/ZuydUniversity) | Netherlands
@@ -120,7 +118,13 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Hogeschool van Amsterdam](https://github.com/hva-makeitwork) | Netherlands
 ###### [Haagse Hogeschool](https://github.com/gameoftrades) | Netherlands
 ###### [Radboud Universiteit](https://github.com/giphouse) | Netherlands
+
++++
+
+###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
+###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
 ###### [Lodz University of Technology](https://github.com/LodzUniversityOfTechnology) | Poland
+###### [University of Bonn, Computer Science](https://github.com/SmartDataAnalytics/) | Germany
 
 
 +++
