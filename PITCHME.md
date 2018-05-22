@@ -127,6 +127,8 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Lodz University of Technology](https://github.com/LodzUniversityOfTechnology) | Poland
 ###### [University of Gdansk](https://github.com/TestowanieJAVA2017-2018Gr2) | Poland
 ###### [University of Bonn](https://github.com/SmartDataAnalytics/) | Germany
+###### [Faculty of Sciences, Department of Mathematics and Informatics, Novi Sad](https://github.com/SoftwareQualityLab) | Serbia
+
 
 
 +++
