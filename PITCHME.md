@@ -1,4 +1,4 @@
----?image=assets/bch-bg.png
+---?image=assets/bch-bg-small.png
 
 ### Introducing
 ## Better Code Hub Education Pack
