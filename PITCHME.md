@@ -2,7 +2,7 @@
 
 ### Introducing
 ## Better Code Hub Education Pack
-#### by Software Improvement Group (SIG)
+#### by Software Improvement Group (SIG.eu)
 
 ---
 
@@ -161,7 +161,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ## Get in Touch
 
 - <bettercodehub@sig.eu>
-- Twitter: [@sig_eu](https://twitter.com/sig_eu) or [@bettercodehub](https://twitter.com/bettercodehub)
+- Twitter: [@bettercodehub](https://twitter.com/bettercodehub)
 
 ✨<span class="primary">Thanks for your time!</span>✨
 
