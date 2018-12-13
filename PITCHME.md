@@ -32,8 +32,8 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 <span class="primary">What's included</span>
 
-- Access to Better Code Hub Pro for your course with [Student Developer Pack](https://education.github.com/pack)
-- Access to [training repositories](https://github.com/bettercodehubtraining)
+- Better Code Hub Pro for your 'Org' [Student Developer Pack](https://education.github.com/pack)
+- [training repositories](https://github.com/bettercodehubtraining)
 
 <span class="primary">What's not included</span>
 
