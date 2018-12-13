@@ -32,11 +32,14 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 <span class="primary">What's included</span>
 
-- Free access to Better Code Hub Pro for your course with [Student Developer Pack](https://education.github.com/pack)
+- Access to Better Code Hub Pro for your course with [Student Developer Pack](https://education.github.com/pack)
 - Access to [training repositories](https://github.com/bettercodehubtraining)
+
+<span class="primary">What's not included</span>
+
 - [Code Quality video training](https://player.oreilly.com/videos/9781491950791)
-- Free copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
-- Discount on the Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
+- Copies of [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
+- Quality Software Development professional qualification [QSD](http://comm.peoplecert.org/IBD/QSD)
 
 
 +++
