@@ -2,7 +2,8 @@
 
 ### Introducing
 ## Better Code Hub Education Pack
-#### by Software Improvement Group (SIG.eu)
+#### by Software Improvement Group 
+SoftwareImprovementGroup.com
 
 ---
 
