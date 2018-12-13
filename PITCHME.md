@@ -85,7 +85,7 @@ Ten Guidelines for future-proof code
 - Zero-setup time
 - Feedback within a couple of minutes
 - Feedback on every push and pull request
-- Supports 16 modern programming languages
+- Supports [17 modern programming languages](https://bettercodehub.com/docs/configuration-manual#configuringprogramminglanguages)
 - Prioritized list of refactoring candidates
 - Real-time impact estimates
 - Metric thresholds derived from industry benchmark data
