@@ -32,10 +32,10 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 <span class="primary">What's included</span>
 
-- Better Code Hub Pro for [GitHub Student](https://education.github.com/pack)
+- Better Code Hub Pro for [GitHub Education](https://education.github.com/pack)
 - Access to [training repositories](https://github.com/bettercodehubtraining)
 
-<span class="primary">What's not included</span>
+<span class="primary">What's not included ;-)</span>
 
 - O'Reilly [Code Quality video training](https://player.oreilly.com/videos/9781491950791)
 - O'Reilly [Building Maintainable Software](https://shop.oreilly.com/product/0636920049159.do)
