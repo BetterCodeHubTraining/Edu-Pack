@@ -164,7 +164,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 
 +++
 
-## Get in Touch
+## Apply now!
 
 - <bettercodehub@sig.eu>
 - Twitter: [@bettercodehub](https://twitter.com/bettercodehub)
