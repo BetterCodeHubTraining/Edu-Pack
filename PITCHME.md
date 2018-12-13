@@ -3,7 +3,7 @@
 ### Introducing
 ## Better Code Hub Education Pack
 #### by Software Improvement Group 
-SoftwareImprovementGroup.com
+[SoftwareImprovementGroup.com](SoftwareImprovementGroup.com)
 
 ---
 
