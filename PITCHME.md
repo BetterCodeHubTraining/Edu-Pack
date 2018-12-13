@@ -157,6 +157,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 [<span class="primary">Software Improvement Group</span>](https://sig.eu) 
 
 - IT management advisory and measurement
+- Code Quality Assurance
 - Passionate about Getting Software Right
 - Creator of Better Code Hub
 
@@ -167,7 +168,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 - <bettercodehub@sig.eu>
 - Twitter: [@bettercodehub](https://twitter.com/bettercodehub)
 
-✨<span class="primary">Thanks for your time!</span>✨
+✨<span class="primary">Thank you!</span>✨
 
 
 
