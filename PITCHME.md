@@ -112,6 +112,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Polytechnique Montréal](https://github.com/poly-log8371) | Canada
 ###### [University of Victoria](https://github.com/SENG330-17) | Canada
 ###### [University of Ottawa](https://github.com/AES-Outreach) | Canada
+###### [Universidad Politécnica de Madrid](https://github.com/ETSISI-EMS) | Spain
 
 +++
 
