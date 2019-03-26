@@ -129,7 +129,7 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 
 ###### [Athens University Economics Business](https://github.com/dmst-sweng) | Greece
 ###### [Universidade de Porto](https://github.com/bch-feup-ooplab) | Portugal
-###### [Lodz University of Technology](https://github.com/LodzUniversityOfTechnology) | Poland
+###### [Lodz University of Technology](https://github.com/lodz-university-of-technology-masi) | Poland
 ###### [University of Gdansk](https://github.com/TestowanieJAVA2017-2018Gr2) | Poland
 ###### [University of Bonn](https://github.com/SmartDataAnalytics/) | Germany
 ###### [Faculty of Sciences, Department of Mathematics and Informatics, Novi Sad](https://github.com/SoftwareQualityLab) | Serbia
