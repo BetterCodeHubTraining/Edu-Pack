@@ -135,6 +135,9 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Faculty of Sciences, Department of Mathematics and Informatics, Novi Sad](https://github.com/SoftwareQualityLab) | Serbia
 ###### [Faculty of Engineering, Syddansk Universitet, Odense](https://github.com/sweat-tek) | Denmark
 
++++
+
+###### [École nationale supérieure d’électronique, informatique, télécommunications, mathématique et mécanique de Bordeaux](https://github.com/EnseirbTelecom) | France
 
 
 +++
