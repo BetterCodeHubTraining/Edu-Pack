@@ -1,8 +1,7 @@
 ---?image=assets/bch-bg-small.png
 
-### Introducing
-## Better Code Hub (BCH) Education Pack
-#### by Software Improvement Group 
+### Better Code Hub (BCH) Education Pack
+#### by
 [SoftwareImprovementGroup.com](https://SoftwareImprovementGroup.com)
 
 ---
