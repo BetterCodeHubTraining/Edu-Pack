@@ -22,12 +22,6 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 
 ---
-<!-- 
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-} 
--->  
 
 ## The Better Code Hub Education Pack 
 
