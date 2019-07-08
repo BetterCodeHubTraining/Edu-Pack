@@ -1,7 +1,7 @@
 ---?image=assets/bch-bg-small.png
 
 ### Introducing
-## Better Code Hub Education Pack
+## Better Code Hub (BCH) Education Pack
 #### by Software Improvement Group 
 [SoftwareImprovementGroup.com](https://SoftwareImprovementGroup.com)
 
@@ -23,7 +23,7 @@ Nobody wants to be hindered by <span class="primary">unforeseen</span> technical
 
 ---
 
-## The Better Code Hub Education Pack 
+## BCH Education Pack 
 
 <span class="primary">What's included</span>
 
