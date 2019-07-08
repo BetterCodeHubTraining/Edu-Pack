@@ -2,7 +2,7 @@
 
 ### Better Code Hub (BCH) Education Pack
 #### by
-[SoftwareImprovementGroup.com](https://SoftwareImprovementGroup.com)
+[SoftwareImprovementGroup.com](https://www.softwareimprovementgroup.com/power-tool-set/)
 
 ---
 
