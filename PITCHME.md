@@ -4,6 +4,8 @@
 #### by
 [SoftwareImprovementGroup.com](https://www.softwareimprovementgroup.com/power-tool-set/)
 
+tip: use the arrows on your keyboard to navigate
+
 ---
 
 ## Code Quality Education?
