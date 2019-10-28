@@ -106,11 +106,13 @@ at <span class="primary">University, Applied Sciences or Polytechnique</span>
 ###### [Dakota State University](https://github.com/dsu-cs/)  | U.S.A
 ###### [Polytechnique Montréal](https://github.com/poly-log8371) | Canada
 ###### [University of Victoria](https://github.com/SENG330-17) | Canada
+###### [University of Victoria](https://github.com/SENG350) | Canada
 ###### [University of Ottawa](https://github.com/AES-Outreach) | Canada
-###### [Universidad Politécnica de Madrid](https://github.com/ETSISI-EMS) | Spain
+
 
 +++
 
+###### [Universidad Politécnica de Madrid](https://github.com/ETSISI-EMS) | Spain
 ###### [University of Amsterdam](https://github.com/software-engineering-amsterdam) | Netherlands
 ###### [Delft University](https://github.com/software-engineering-methods) | Netherlands
 ###### [Hanze Hogeschool](https://github.com/hanzehogeschoolSICT) | Netherlands
